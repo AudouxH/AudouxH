@@ -3,4 +3,4 @@
 
 [![alt image](https://cdn-icons-png.flaticon.com/512/2504/2504918.png | width=100)](https://www.google.com)
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://cdn-icons-png.flaticon.com/512/2504/2504918.png)" width="200" height="400" />
