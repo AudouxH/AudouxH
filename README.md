@@ -1,5 +1,5 @@
 ## Bienvenue sur mon profil Github
-### Moi c'est Hugo Audoux! je suis developpeur web et mobile spécialiser dans le framework React (js et native) ainsi que le web3 pour offrir la meilleur experience aux utilisateurs.
+### Moi c'est Hugo Audoux! Je suis developpeur web et mobile spécialiser dans le framework React (js et native) ainsi que le web3 pour offrir la meilleur experience aux utilisateurs.
 
 ### Télécharge mon CV en cliquant juste en bas
 [AudouxHugo.pdf](https://github.com/AudouxH/AudouxH/files/10132826/AudouxHugo.pdf)
