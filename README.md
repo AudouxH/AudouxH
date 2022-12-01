@@ -3,4 +3,4 @@
 
 [![alt image](https://cdn-icons-png.flaticon.com/512/2504/2504918.png | width=100)](https://www.google.com)
 
-<img src="https://cdn-icons-png.flaticon.com/512/2504/2504918.png)" width="200" height="400" />
+<img src="https://cdn-icons-png.flaticon.com/512/2504/2504918.png" width="200" height="400" />
