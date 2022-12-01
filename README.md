@@ -9,6 +9,6 @@
 [<img src="https://cdn-icons-png.flaticon.com/512/2504/2504946.png" width="50" height="50" />](https://www.google.com)
 [<img src="https://cdn-icons-png.flaticon.com/512/2504/2504965.png" width="50" height="50" />](https://www.google.com)
 
-<span align='center'>
+<p align='center'>
   <a href='https://www.google.com'><img src="https://cdn-icons-png.flaticon.com/512/2504/2504965.png" width="50" height="50" /></a>
-</span>
+</p>
