@@ -6,7 +6,7 @@
 
 ### Lien vers mes réseaux sociaux
 <div align="center">
-  <a href='https://www.google.com' margin="10px"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" width="50" height="50" /></a>
+  <a href='https://www.google.com'><img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" width="50" height="50" /></a>
   <a href='https://www.google.com'><img src="https://cdn-icons-png.flaticon.com/512/2504/2504946.png" width="50" height="50" /></a>
   <a href='https://www.google.com'><img src="https://cdn-icons-png.flaticon.com/512/2504/2504965.png" width="50" height="50" /></a>
 </div>
