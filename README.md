@@ -5,6 +5,6 @@
 [AudouxHugo.pdf](https://github.com/AudouxH/AudouxH/files/10132826/AudouxHugo.pdf)
 
 ### Lien vers mes réseaux sociaux
-[<img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" width="100" height="100" />](https://www.google.com)
-[<img src="https://cdn-icons-png.flaticon.com/512/2504/2504946.png" width="100" height="100" />](https://www.google.com)
-[<img src="https://cdn-icons-png.flaticon.com/512/2504/2504965.png" width="100" height="100" />](https://www.google.com)
+[<img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" width="50" height="50" />](https://www.google.com)
+[<img src="https://cdn-icons-png.flaticon.com/512/2504/2504946.png" width="50" height="50" />](https://www.google.com)
+[<img src="https://cdn-icons-png.flaticon.com/512/2504/2504965.png" width="50" height="50" />](https://www.google.com)
