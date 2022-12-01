@@ -7,9 +7,8 @@
 [AudouxHugo.pdf](https://github.com/AudouxH/AudouxH/files/10132826/AudouxHugo.pdf)
 
 ### Lien vers mes réseaux sociaux
-<div align="center">
-  <a align="left" href='https://www.google.com'><img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" width="50" height="50" /></a>
-  <a align="center" href='https://www.google.com'><img src="https://cdn-icons-png.flaticon.com/512/2504/2504946.png" width="50" height="50" /></a>
-  <a align="right" href='https://www.google.com'><img src="https://cdn-icons-png.flaticon.com/512/2504/2504965.png" width="50" height="50" /></a>
-</div>
+[![](https://cdn-icons-png.flaticon.com/512/2504/2504923.png)](https://www.google.com)
 
+<a href='https://www.google.com'><img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" width="50" height="50" /></a>
+<a href='https://www.google.com'><img src="https://cdn-icons-png.flaticon.com/512/2504/2504946.png" width="50" height="50" /></a>
+<a href='https://www.google.com'><img src="https://cdn-icons-png.flaticon.com/512/2504/2504965.png" width="50" height="50" /></a>
