@@ -5,7 +5,7 @@
 [AudouxHugo.pdf](https://github.com/AudouxH/AudouxH/files/10132826/AudouxHugo.pdf)
 
 ### Lien vers mes réseaux sociaux
-<p style={display: 'flex', flexDirection: 'row', justifyContent: 'space-around'}>
+<p style={display: 'flex', 'flex-direction': 'column'}>
   <a href='https://www.google.com'><img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" width="50" height="50" /></a>
   <a href='https://www.google.com'><img src="https://cdn-icons-png.flaticon.com/512/2504/2504946.png" width="50" height="50" /></a>
   <a href='https://www.google.com'><img src="https://cdn-icons-png.flaticon.com/512/2504/2504965.png" width="50" height="50" /></a>
