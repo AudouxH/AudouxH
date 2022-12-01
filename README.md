@@ -10,3 +10,14 @@
   <a href='https://www.google.com'><img src="https://cdn-icons-png.flaticon.com/512/2504/2504946.png" width="50" height="50" /></a>
   <a href='https://www.google.com'><img src="https://cdn-icons-png.flaticon.com/512/2504/2504965.png" width="50" height="50" /></a>
 </div>
+
+<style>
+img
+{
+    display:block; 
+    float:none; 
+    margin-left:auto;
+    margin-right:auto;
+    width:60%;
+}
+</style> 
