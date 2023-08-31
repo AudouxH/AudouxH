@@ -17,6 +17,6 @@ Feel free to take a closer look at my journey. [Download Resume (PDF)](https://g
 ### Get in Touch:
 Connect with me on my social platforms:
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/2504/2504923.png=50x50)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://cdn-icons-png.flaticon.com/512/2504/2504946.png=50x50)](https://www.twitter.com/your-twitter-profile)
-[![Instagram](https://cdn-icons-png.flaticon.com/512/2504/2504965.png=50x50)](https://www.instagram.com/your-instagram-profile)
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/2504/2504923.png)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Twitter](https://cdn-icons-png.flaticon.com/512/2504/2504946.png)](https://www.twitter.com/your-twitter-profile)
+[![Instagram](https://cdn-icons-png.flaticon.com/512/2504/2504965.png)](https://www.instagram.com/your-instagram-profile)
