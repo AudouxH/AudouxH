@@ -11,6 +11,9 @@ Hey there, I'm Hugo – a front-end web and mobile developer with a strong focus
 
 👇 My next endeavor? Taking this dapp a step further by integrating wallets with a wide array of features. From comprehensive user profiles and real-time balances to enabling the seamless transfer of NFTs and cryptocurrencies – I'm excited to continue pushing the boundaries of what's possible in this exciting space.
 
+### My NPM Packages:
+I also contribute to the open-source community by publishing npm packages. You can check out my npm packages by visiting my [npmjs profile](https://www.npmjs.com/settings/audouxh/packages). Feel free to explore and use them in your projects!
+
 ### Download My Resume:
 Feel free to take a closer look at my journey. [Download Resume (PDF)](https://github.com/AudouxH/AudouxH/files/10132826/AudouxHugo.pdf)
 
